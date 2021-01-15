@@ -1,0 +1,25 @@
+{
+  "name": "simplest-site",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusPazDev/simplest-site.git"
+  },
+  "keywords": [],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/MatheusPazDev/simplest-site/issues"
+  },
+  "homepage": "https://github.com/MatheusPazDev/simplest-site#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^10.0.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
